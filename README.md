@@ -8,3 +8,7 @@ Nice analyses!
 Good notation and well down report.
 3.8 
 Good thought on leap year conversion. (+1p)
+
+## Comemnts on HW3 Lixc  (51/50)
+1.2
+Good to consider latitude weight! (+1p)
